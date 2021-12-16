@@ -1,3 +1,9 @@
+# LOGISTIC REGRESSION implementation with l2 regularization and OVO, OVR implementation  from scratch.
+
+If you are a IIITD student looking at this for ML(PG) assignments, please do not plagiarise.
+
+
+
 imports: numpy,sklearn,matplotlib,joblib,seaborn
 there are three files:
 question1.ipynb
